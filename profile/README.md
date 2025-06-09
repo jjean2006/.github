@@ -1,7 +1,7 @@
 <div align="center">
   <img width="70px" height="90px" align="left" src="https://i.imgur.com/ZYlL5O3.png">
   <h3 align="left">Comfy</h3>
-<p align="left">Bringing few changes to our themes while not loosing the user in the process is the signature of Comfy, a recognisable place but more comfortable.</p>
+<p align="left">Bringing few changes to our themes while not losing the user in the process is the signature of Comfy, a recognisable place but more comfortable.</p>
 </div>
 </br>
 
